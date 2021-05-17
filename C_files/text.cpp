@@ -18,6 +18,7 @@ int main()
     // message.length = 4;
     // message.wideth = 2;
     // message.weight = 1600;
+    // ²âÊÔĞŞ¸ÄGIT
     printf("brand=%s,length=%d,wideth=%d,weight=%d", message.brand, message.length, message.wideth, message.weight);
     return 0;
 }
